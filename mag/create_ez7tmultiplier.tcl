@@ -9,7 +9,7 @@
 # Change the settings below to match your design:
 # ------------------------------------------------
 set TOP_LEVEL_CELL     tt_um_thomasherzog_ez7tmultiplier
-set TEMPLATE_FILE      tt_block_1x1_pgvdd.def
+set TEMPLATE_FILE      tt_block_1x2_pgvdd.def
 set POWER_STRIPE_WIDTH 2.4um                 ;# The minimum width is 2.1um
 
 # Power stripes: NET name, x position. You can add additional power stripes for each net, as needed.
